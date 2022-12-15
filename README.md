@@ -1,1 +1,1 @@
-# Here you can see my CS50X files.
+# Here you can see my CS50 files.
